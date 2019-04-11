@@ -6,6 +6,11 @@ letter-spacing: 1px;
 
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .overlay {
 
 	height: 100%;
